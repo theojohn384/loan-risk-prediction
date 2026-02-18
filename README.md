@@ -169,8 +169,8 @@ All 8 visualization PNGs will be saved to the `outputs/` directory.
 
 ## Author
 
-**[Your Name]**  
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) | [Email](mailto:your@email.com)
+**Theodore Johnson**  
+[LinkedIn](www.linkedin.com/in/theodore-johnson-m-s-data-science-403b9110b) | [Email](theodorejohnson384@gmail.com)
 
 ---
 
